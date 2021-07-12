@@ -69,3 +69,5 @@ A curated list of datasets, codes, and papers related to scene change detection 
 [![paper](https://img.shields.io/badge/paper-red)](https://www.sciencedirect.com/science/article/pii/S0925231219313979)
 - 2020 | **Scene independency matters: An empirical study of scene dependent and scene independent evaluation for CNN-based change detection** `T-ITS`
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/9238403)
+- 2020 | **CDNet++: Improved Change Detection with Deep Neural Network Feature Correlation** `IJCNN`
+[![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/9207306)
