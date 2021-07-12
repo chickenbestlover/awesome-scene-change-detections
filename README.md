@@ -48,4 +48,5 @@ A curated list of datasets, codes, and papers related to scene change detection 
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/gmayday1997/SceneChangeDet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/pdf/1810.09111.pdf)
 ## 3. Papers without codes
-
+- 2020 | **Self-supervised simultaneous alignment and change detection** `IROS`
+[![paper](https://img.shields.io/badge/paper-red)](http://ras.papercept.net/images/temp/IROS/files/1888.pdf)
