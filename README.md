@@ -54,11 +54,15 @@ A curated list of datasets, codes, and papers related to scene change detection 
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/leonardoaraujosantos/ChangeNet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Varghese_ChangeNet_A_Deep_Learning_Architecture_for_Visual_Change_Detection_ECCVW_2018_paper.pdf)
 ## 3. Papers without codes
-- 2021 | **3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos** `IEEE TIP`
+- 2021 | **3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos** `T-IP`
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9263106)
 - 2020 | **Self-supervised simultaneous alignment and change detection** `IROS`
 [![paper](https://img.shields.io/badge/paper-red)](http://ras.papercept.net/images/temp/IROS/files/1888.pdf)
 - 2020 | **Better Together: Online Probabilistic Clique Change Detection in 3D Landmark-Based Maps** `IROS`
 [![paper](https://img.shields.io/badge/paper-red)](http://ras.papercept.net/images/temp/IROS/files/2170.pdf)
-- 2020 | **Hierarchical Paired Channel Fusion Network for Street Scene Change Detection** `IEEE TIP`
+- 2020 | **Hierarchical Paired Channel Fusion Network for Street Scene Change Detection** `T-IP`
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/2010.09925)
+- 2020 | **Mask-CDNet: A mask based pixel change detection networ** `Neurocomputing`
+[![paper](https://img.shields.io/badge/paper-red)](https://www.sciencedirect.com/science/article/pii/S0925231219313979)
+- 2020 | **Scene independency matters: An empirical study of scene dependent and scene independent evaluation for CNN-based change detection** `T-ITS`
+[![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/9238403)
