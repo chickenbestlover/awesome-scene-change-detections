@@ -44,6 +44,9 @@ A curated list of datasets, codes, and papers related to scene change detection 
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/document/6238919?arnumber=6238919)
 
 ## 2. Papers with codes
+- 2021 | **DR-TANet: Dynamic Receptive Temporal Attention Network for Street Scene Change Detection** `IV`
+[![page](https://img.shields.io/badge/page-blue)](https://github.com/Herrccc/DR-TANet) 
+[![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/2103.00879)
 - 2020 | **Weakly Supervised Silhouette-based Semantic Scene Change Detection** `ICRA`
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/kensakurada/sscdnet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/1811.11985)
