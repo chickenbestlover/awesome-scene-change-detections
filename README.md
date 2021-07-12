@@ -73,3 +73,5 @@ A curated list of datasets, codes, and papers related to scene change detection 
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/9238403)
 - 2020 | **CDNet++: Improved Change Detection with Deep Neural Network Feature Correlation** `IJCNN`
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/9207306)
+- 2019 | **Histogram Shape-Based Scene-Change Detection Algorithm** `Access`
+[![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/8653285)
