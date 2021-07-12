@@ -1,4 +1,4 @@
-# Awesome Scene Change Detection [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Scene Change Detections [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of datasets, codes, and papers related to scene change detection (SCD).
 
 ## 1. Dataset
@@ -16,11 +16,20 @@ A curated list of datasets, codes, and papers related to scene change detection 
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/WaldJohannaU/3RScan) 
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/pdf/1908.06109.pdf)
 
+- 2019 | **Mallscape** `CVPR`
+[![github](https://img.shields.io/badge/page-blue)](https://europe.naverlabs.com/blog/making-maps-evergreen/) 
+[![paper](https://img.shields.io/badge/paper-red)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Revaud_Did_It_Change_Learning_to_Detect_Point-Of-Interest_Changes_for_Proactive_CVPR_2019_paper.pdf)
+
 - 2017 | **Fehr et al.** `ICRA`
 [![github](https://img.shields.io/badge/page-blue)](https://github.com/ethz-asl/change_detection_ds) 
 [![paper](https://img.shields.io/badge/paper-red)](https://www.researchgate.net/profile/Marius-Fehr/publication/318697735_TSDF-based_change_detection_for_consistent_long-term_dense_reconstruction_and_dynamic_object_discovery/links/59b52b4b458515a5b4937b68/TSDF-based-change-detection-for-consistent-long-term-dense-reconstruction-and-dynamic-object-discovery.pdf)
 
+
 ### 1.2. Outdoor
+
+- 2020 | **HD map & Localization Dataset** (only accessible for Korean researchers due to legal issues)  `IROS`
+[![page](https://img.shields.io/badge/googledrive-blue)](https://hdmap.naverlabs.com/dataset.html) 
+[![paper](https://img.shields.io/badge/paper-red)](http://ras.papercept.net/images/temp/IROS/files/0934.pdf)
 
 - 2018 | **VL-CMU-CD** `Autonomous Robots`
 [![page](https://img.shields.io/badge/googledrive-blue)](https://drive.google.com/file/d/0B-IG2NONFdciOWY5QkQ3OUgwejQ/view?resourcekey=0-rEzCjPFmDFjt4UMWamV4Eg) 
