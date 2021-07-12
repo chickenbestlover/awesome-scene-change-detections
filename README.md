@@ -44,9 +44,21 @@ A curated list of datasets, codes, and papers related to scene change detection 
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/document/6238919?arnumber=6238919)
 
 ## 2. Papers with codes
+- 2020 | **Weakly Supervised Silhouette-based Semantic Scene Change Detection** `ICRA`
+[![page](https://img.shields.io/badge/page-blue)](https://github.com/kensakurada/sscdnet) 
+[![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/1811.11985)
 - 2018 | **Learning to measure change: Fully convolutional siamese metric networks for scene change detection** `arXiv`
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/gmayday1997/SceneChangeDet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/pdf/1810.09111.pdf)
+- 2018 | **ChangeNet: A Deep Learning Architecture for Visual Change Detection** `ECCVW`
+[![page](https://img.shields.io/badge/page-blue)](https://github.com/leonardoaraujosantos/ChangeNet) 
+[![paper](https://img.shields.io/badge/paper-red)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Varghese_ChangeNet_A_Deep_Learning_Architecture_for_Visual_Change_Detection_ECCVW_2018_paper.pdf)
 ## 3. Papers without codes
+- 2021 | **3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos** `IEEE TIP`
+[![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9263106)
 - 2020 | **Self-supervised simultaneous alignment and change detection** `IROS`
 [![paper](https://img.shields.io/badge/paper-red)](http://ras.papercept.net/images/temp/IROS/files/1888.pdf)
+- 2020 | **Better Together: Online Probabilistic Clique Change Detection in 3D Landmark-Based Maps** `IROS`
+[![paper](https://img.shields.io/badge/paper-red)](http://ras.papercept.net/images/temp/IROS/files/2170.pdf)
+- 2020 | **Hierarchical Paired Channel Fusion Network for Street Scene Change Detection** `IEEE TIP`
+[![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/2010.09925)
