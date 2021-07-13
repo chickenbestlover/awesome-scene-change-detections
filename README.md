@@ -48,7 +48,7 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 ### 1.2. Outdoor
 
 - 2020 | **HD map & Localization Dataset** (only accessible for Korean researchers due to legal issues)  `IROS`
-[![page](https://img.shields.io/badge/googledrive-blue)](https://hdmap.naverlabs.com/dataset.html) 
+[![page](https://img.shields.io/badge/page-blue)](https://hdmap.naverlabs.com/dataset.html) 
 [![paper](https://img.shields.io/badge/paper-red)](http://ras.papercept.net/images/temp/IROS/files/0934.pdf)
 
 - 2018 | **VL-CMU-CD** `Autonomous Robots`
