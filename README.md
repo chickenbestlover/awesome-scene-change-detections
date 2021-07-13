@@ -21,9 +21,9 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 
 
 
-## 1. Dataset
+## Datasets
 
-### 1.1. Indoor
+### Indoor
 - 2021 | **ChangeSim** `IROS`
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/SAMMiCA/ChangeSim) 
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/pdf/2103.05368.pdf)
@@ -45,7 +45,7 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 [![paper](https://img.shields.io/badge/paper-red)](https://www.researchgate.net/profile/Marius-Fehr/publication/318697735_TSDF-based_change_detection_for_consistent_long-term_dense_reconstruction_and_dynamic_object_discovery/links/59b52b4b458515a5b4937b68/TSDF-based-change-detection-for-consistent-long-term-dense-reconstruction-and-dynamic-object-discovery.pdf)
 
 
-### 1.2. Outdoor
+### Outdoor
 
 - 2020 | **HD map & Localization Dataset** (only accessible for Korean researchers due to legal issues)  `IROS`
 [![page](https://img.shields.io/badge/page-blue)](https://hdmap.naverlabs.com/dataset.html) 
@@ -63,7 +63,10 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 [![page](https://img.shields.io/badge/page-blue)](http://changedetection.net/) 
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/document/6238919?arnumber=6238919)
 
-## 2. Papers with codes
+## Survey Papers
+- TBU.
+
+## Papers with code
 - 2021 | **DR-TANet: Dynamic Receptive Temporal Attention Network for Street Scene Change Detection** `IV`
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/Herrccc/DR-TANet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/2103.00879)
@@ -76,7 +79,7 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 - 2018 | **ChangeNet: A Deep Learning Architecture for Visual Change Detection** `ECCVW`
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/leonardoaraujosantos/ChangeNet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Varghese_ChangeNet_A_Deep_Learning_Architecture_for_Visual_Change_Detection_ECCVW_2018_paper.pdf)
-## 3. Papers without codes
+## 3. Papers without code
 - 2021 | **Scene change detection: semantic and depth information** `MULTIMED TOOLS APPL`
 [![paper](https://img.shields.io/badge/paper-red)](https://link.springer.com/article/10.1007/s11042-021-10793-4)
 - 2021 | **3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos** `T-IP`
