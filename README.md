@@ -79,7 +79,7 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 - 2018 | **ChangeNet: A Deep Learning Architecture for Visual Change Detection** `ECCVW`
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/leonardoaraujosantos/ChangeNet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Varghese_ChangeNet_A_Deep_Learning_Architecture_for_Visual_Change_Detection_ECCVW_2018_paper.pdf)
-## 3. Papers without code
+## Papers without code
 - 2021 | **Scene change detection: semantic and depth information** `MULTIMED TOOLS APPL`
 [![paper](https://img.shields.io/badge/paper-red)](https://link.springer.com/article/10.1007/s11042-021-10793-4)
 - 2021 | **3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos** `T-IP`
