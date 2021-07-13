@@ -1,17 +1,24 @@
 # Awesome Scene Change Detections [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 A curated list of datasets, codes, and papers related to scene change detection (SCD).
 
+_NOTE. This repository covers scene change detection based on robot vision (for autonomous driving, drones, mobile robots, etc.).
+If you are looking for remote sensing change detection (i.e., finding changes between two satellite images), see [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)._
+
 ## What is scene change detection?
-Scene change detection (SCD) refers to the task of localizing changes and identifying change-categories given two scenes. A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cloud). If the scene is an image, SCD is a form of pixel-level prediction because each pixel in the image is classified according to a category. On the other hand, if the scene is point cloud, SCD is a form of point-level prediction because each point in the cloud is classified according to a category.
+Scene change detection (SCD) refers to the task of localizing changes and identifying change-categories given two scenes, where the two scenes are captured in the same place with a time difference. 
+Often, the scene captured first is called the _reference_ scene (captured at _t0_), and the scene captured later is called the _query_ scene (captured at _t1_). 
+A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cloud). If the scene is an image, SCD is a form of pixel-level prediction because each pixel in the image is classified according to a category. On the other hand, if the scene is point cloud, SCD is a form of point-level prediction because each point in the cloud is classified according to a category.
 
-This repository covers scene change detection based on robot vision (for autonomous driving, drones, mobile robots, etc.).
-If you are looking for remote sensing change detection (i.e., finding changes between two satellite images), see [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection).
 
 
-Some example benchmarks for this task are VL-CMU-CD, PCD, and CD2014. Recently, more complicated benchmarks such as ChangeSim, HDMap, and Mallscape are released.
+<p align="center">
+  <img src="./fig/github_main_gif.gif">    
+    <br>
+  <em> 
+    An example of SCDs from ChangeSim dataset. Detecting scene changes, models are required to distinghish aimed changes (changed objects) from non-targeted changes, i.e., environmental variations (lowered illumination). Changed objects are marked in color.
+  </em>
+</p>
 
-Models are usually evaluated with the Mean Intersection-Over-Union (Mean IoU), Pixel Accuracy, or F1 metrics.
-<p align="center"><img src="./fig/github_main_gif.gif"></p>
 
 
 ## 1. Dataset
