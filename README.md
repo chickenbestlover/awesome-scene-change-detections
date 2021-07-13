@@ -2,8 +2,15 @@
 A curated list of datasets, codes, and papers related to scene change detection (SCD).
 
 ## What is scene change detection?
-Scene change detection (SCD) is 
+Scene change detection (SCD) refers to the task of localizing changes and identifying change-categories given two scenes. A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cloud). If the scene is an image, SCD is a form of pixel-level prediction because each pixel in the image is classified according to a category. On the other hand, if the scene is point cloud, SCD is a form of point-level prediction because each point in the cloud is classified according to a category.
 
+This repository covers scene change detection based on robot vision (for autonomous driving, drones, mobile robots, etc.).
+If you are looking for remote sensing change detection (i.e., finding changes between two satellite images), see [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection).
+
+
+Some example benchmarks for this task are VL-CMU-CD, PCD, and CD2014. Recently, more complicated benchmarks such as ChangeSim, HDMap, and Mallscape are released.
+
+Models are usually evaluated with the Mean Intersection-Over-Union (Mean IoU), Pixel Accuracy, or F1 metrics.
 <p align="center"><img src="./fig/github_main_gif.gif"></p>
 
 
