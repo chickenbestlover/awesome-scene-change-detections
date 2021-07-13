@@ -95,3 +95,9 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/9207306)
 - 2019 | **Histogram Shape-Based Scene-Change Detection Algorithm** `Access`
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/abstract/document/8653285)
+
+## Contact & Feedback
+If you have any suggestions about papers, feel free to contact me :)
+- [e-mail](mailto:jmpark@rit.kaist.ac.kr)
+- [pull request](https://github.com/chickenbestlover/awesome-scene-change-detections/pulls)
+
