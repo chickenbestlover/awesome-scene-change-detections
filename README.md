@@ -1,7 +1,11 @@
-# Awesome Scene Change Detections [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![page](https://img.shields.io/badge/page-paperswithcode-blue)](https://paperswithcode.com/sota/scene-change-detection-on-changesim)
-
-
+# Awesome Scene Change Detections [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 A curated list of datasets, codes, and papers related to scene change detection (SCD).
+
+## What is scene change detection?
+Scene change detection (SCD) is 
+
+<p align="center"><img src="./fig/github_main_gif.gif"></p>
+
 
 ## 1. Dataset
 
