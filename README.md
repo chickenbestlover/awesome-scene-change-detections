@@ -63,10 +63,20 @@ A scene can be either an RGB (+D) image, video, or a 3D reconstruction (point cl
 [![page](https://img.shields.io/badge/page-blue)](http://changedetection.net/) 
 [![paper](https://img.shields.io/badge/paper-red)](https://ieeexplore.ieee.org/document/6238919?arnumber=6238919)
 
+### Misc/Hybrid
+
+- 2023 | **COCO-Inpainted, Kubric-Change, VIRAT-STD, Synthtext-Change**  `WACV`
+[![page](https://img.shields.io/badge/page-blue)](https://github.com/ragavsachdeva/The-Change-You-Want-to-See) 
+[![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/2209.14341)
+
+
 ## Survey Papers
 - TBU.
 
 ## Papers with code
+- 2023 | **The Change You Want to See** `WACV`
+[![page](https://img.shields.io/badge/page-blue)](https://github.com/ragavsachdeva/The-Change-You-Want-to-See) 
+[![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/2209.14341)
 - 2021 | **DR-TANet: Dynamic Receptive Temporal Attention Network for Street Scene Change Detection** `IV`
 [![page](https://img.shields.io/badge/page-blue)](https://github.com/Herrccc/DR-TANet) 
 [![paper](https://img.shields.io/badge/paper-red)](https://arxiv.org/abs/2103.00879)
